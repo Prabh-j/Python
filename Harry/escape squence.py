@@ -1,0 +1,2 @@
+print("hello world", 5, 7, sep="-", end="009") # sep is for anything to put between outputs
+print("jjk") #end is for connecting two consicutve print statements , we can also use \n to print in next line
